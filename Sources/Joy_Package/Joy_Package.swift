@@ -29,6 +29,9 @@ public class MediumWebView: WKWebView {
 public class Joy_ImageView {
     
     
+    public init() {}
+
+    
     public func Call_API()
     {
         print("Joyharsh Christie")
