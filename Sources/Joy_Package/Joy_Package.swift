@@ -24,3 +24,32 @@ public class MediumWebView: WKWebView {
         return nil
     }
 }
+
+
+public class Joy_ImageView {
+    
+    
+    public func Call_API()
+    {
+        print("Joyharsh Christie")
+    }
+    
+//    public init() {
+//        let ImageView = UIImageView()
+//        ImageView.backgroundColor = UIColor.black
+//    }
+//
+//    required init?(coder: NSCoder) {
+//        super.init(coder: coder)
+//    }
+//
+//    @discardableResult
+//    public func load() -> WKNavigation? {
+//        if let url = URL(string:"https://google.com") {
+//            let req = URLRequest(url: url)
+//            return super.load(req)
+//        }
+//        return nil
+//    }
+}
+
