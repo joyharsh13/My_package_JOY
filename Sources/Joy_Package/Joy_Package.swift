@@ -17,7 +17,7 @@ public class MediumWebView: WKWebView {
 
     @discardableResult
     public func load() -> WKNavigation? {
-        if let url = URL(string:"https://fb.com") {
+        if let url = URL(string:"https://google.com") {
             let req = URLRequest(url: url)
             return super.load(req)
         }
